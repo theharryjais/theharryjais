@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Library Managmemet System**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,BOOTSTRAP,REACT.JS**
 
 - 📫 How to reach me **harryjaiswal2077@gmail.com**
 
