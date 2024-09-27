@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,BOOTSTRAP,REACT.JS**
 
-- 📫 How to reach me **harryjaiswal2077@gmail.com**
+- 📫 How to reach me **harryjaiswal2074@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
 
