@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@harryja64555078" target="blank"><img src="https://img.shields.io/twitter/follow/@harryja64555078?logo=twitter&style=for-the-badge" alt="@harryja64555078" /></a> </p>
 
-- 🔭 I’m currently working on **Library Managmemet System**
+- 🔭 I’m currently working on **A chatbot**
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,BOOTSTRAP,REACT.JS**
+- 🌱 I’m currently learning **HTML,CSS,Python**
 
 - 📫 How to reach me **harryjaiswal2074@gmail.com**
 
